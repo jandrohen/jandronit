@@ -5,12 +5,15 @@
 
 ### <div align="center">I'm Alejandro, a full-stack developer with the MAIN stack of javascript 👨‍💻 working with more than 2 years of experience 🚀</div>  
 
-- 🔭 I’m currently working on [Elliot Cloud](https://elliotcloud.com/) IoT applied to infrastructure management
+- 🌐 I’m currently working on [Arsys](https://arsys.es/) Hosting and IT Services Company
   
+  
+- ♻️ I was working on [Elliot Cloud](https://elliotcloud.com/) IoT applied to infrastructure management
+
 
 - 🌱 I’m currently learning React and Portainer in my free time 
   
-
+  
 - ❓ Ask me about anything related to MAIN stack and related technologies  
   
 
