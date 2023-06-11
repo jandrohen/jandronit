@@ -11,7 +11,7 @@
 - ♻️ I was working on [Elliot Cloud](https://elliotcloud.com/) IoT applied to infrastructure management
 
 
-- 🌱 I’m currently learning React and Portainer in my free time 
+- 🌱 I’m currently learning GO and Portainer in my free time 
   
   
 - ❓ Ask me about anything related to MAIN stack and related technologies  
